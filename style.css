@@ -1,0 +1,17 @@
+body {
+  font-family: 'Comic Sans MS', sans-serif;
+  background: radial-gradient(circle, #fafafa, #d3e0e9);
+  text-align: center;
+  color: #222;
+  padding: 20px;
+}
+img {
+  margin: 10px;
+  border: 3px dashed #f00;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #f0f;
+}
+video {
+  margin: 20px auto;
+  border-radius: 20px;
+}
